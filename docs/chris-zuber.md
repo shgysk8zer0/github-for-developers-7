@@ -3,3 +3,4 @@
 - **From**: California
 - **Favorite Food**: Sushi
 - **Hobby**: Mountain biking
+- **Favorite Color**: Black
